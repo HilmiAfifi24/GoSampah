@@ -1,0 +1,97 @@
+.custom-row img {
+  margin-right: 10px; 
+}
+
+
+.custom-row .col-sm-3:last-child img {
+  margin-right: 0; 
+}
+
+.div {
+  position: absolute;
+  width: 860px;
+  top: 138px;
+  left: 75px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 27px;
+  letter-spacing: 0.54px;
+  line-height: normal;
+}
+
+.property-about-us .card-about-us {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 276px;
+  align-items: center;
+  gap: 25px;
+  padding: 20px;
+  position: absolute;
+  top: 323px;
+  left: 75px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.property-about-us .calendar {
+  position: relative;
+  width: 105px;
+  height: 103px;
+  object-fit: cover;
+}
+
+.text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #7d7d7d;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0.7px;
+  line-height: normal;
+}
+
+.property-about-us .card-about-us-2 {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 276px;
+  align-items: center;
+  gap: 1px;
+  padding: 20px;
+  position: absolute;
+  top: 323px;
+  left: 545px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.property-about-us .garbage-truck {
+  position: relative;
+  width: 162.82px;
+  height: 127px;
+  object-fit: cover;
+}
+
+.property-about-us .card-about-us-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 27px;
+  padding: 20px;
+  position: absolute;
+  top: 323px;
+  left: 1015px;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.property-about-us .garbage {
+  position: relative;
+  width: 102px;
+  height: 103px;
+  object-fit: cover;
+} 
